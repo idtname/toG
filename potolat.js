@@ -20,7 +20,9 @@ function drawHN(number){
 function drawLatter(number){
     LText.innerHTML = latter_text[number]
     LText.style.color = 'white';
-    LText.style.width = '100%';
+    LText.style.paddingLeft = '5%';
+    LText.style.paddingRight = '5%';
+    LText.style.width = '90%';
     LText.style.height ='auto';
 }
 
