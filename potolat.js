@@ -22,7 +22,7 @@ function drawLatter(number){
     LText.style.color = 'white';
     LText.style.paddingLeft = '5%';
     LText.style.paddingRight = '5%';
-    LText.style.width = '90%';
+    LText.style.width = '100%';
     LText.style.height ='auto';
 }
 
