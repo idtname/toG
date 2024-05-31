@@ -212,7 +212,7 @@ function ShowLatter(counter){
     drawLatter(counter)
 }
 
-
+//버튼과 상호작용.
 function nextLet(){
     counter += 1;
     ShowLatter(counter)
